@@ -1,1 +1,1 @@
-# Lab-Scale-Flume-Setup-for-Soil-Flow-Study
+# Lab Scale Flume Setup for Soil Flow Study
